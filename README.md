@@ -1,4 +1,3 @@
-📌 Project Summary
 
 This project demonstrates the implementation and troubleshooting of a complete Active Directory infrastructure lab using Windows Server.
 
